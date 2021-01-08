@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! 👋
+
+Welcome to my Github. I'm Jie Feng.
+
+I am a Computer Science undergraduate @ National University of Singapore.
+
+Currently, I am learning about the various web development framework and practices, and hoping to be a Full-Stack Web Developer.
+
+![My most commonly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lowjiefeng1998&layout=compact&langs_count=5)
 
 <!--
 **lowjiefeng1998/lowjiefeng1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
